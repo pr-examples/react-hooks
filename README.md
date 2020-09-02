@@ -4,5 +4,10 @@ JavaScript: es6
 
 ## Commands
 
-`$ npm i`
+```
+$ npm i
+```
+
+```
 `$ yarn start`
+```
