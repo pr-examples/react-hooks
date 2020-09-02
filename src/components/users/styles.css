@@ -1,0 +1,9 @@
+.users-list{
+    margin: 2em 0;
+    border:10px solid #eee;
+    padding:2em;
+}
+
+.user{
+    margin: 1em 0;
+}
