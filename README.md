@@ -9,5 +9,5 @@ $ npm i
 ```
 
 ```
-`$ yarn start`
+$ yarn start
 ```
