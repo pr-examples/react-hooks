@@ -5,7 +5,7 @@ JavaScript: es6
 ## Commands
 
 ```
-$ npm i
+$ yarn install
 ```
 
 ```
